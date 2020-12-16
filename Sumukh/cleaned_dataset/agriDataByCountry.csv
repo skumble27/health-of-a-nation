@@ -1,0 +1,125 @@
+Entity,Staple Crop,Crop Yeild (kg/ha),"Agriculture, value added per worker (constant 2010 US$)",Urban Population (%),Employed in Agriculture(%),Cash Crop,Cash Crop Yeild (kg/ha)
+Afghanistan,Maize Rice Wheat,70283,761.4615127999999,24.803,61.13199997,Cotton,10000
+Albania,Maize Soybeans Wheat,129029,5374.47637,57.434,41.36600113,Cotton Tobacco,27944
+Algeria,Maize Rice Wheat,76438,14065.12385,70.848,13.07499981,Cotton Tobacco,24044
+Argentina,Maize Rice Soybeans Wheat,200828,338735.9112,91.50299999999999,0.518000007,Cotton Tea Tobacco,65207
+Armenia,Maize Wheat,96336,6289.041997,63.085,35.32899857,Tobacco,23257
+Australia,Maize Rice Soybeans Wheat,216760,85599.24915,85.70100000000001,2.644000053,Cotton Tobacco,78916
+Austria,Maize Soybeans Wheat,204811,27433.490380000003,57.715,4.5310001369999995,Tobacco,16781
+Azerbaijan,Maize Rice Soybeans Wheat,120472,2122.5699870000003,54.714,36.35599899,Cotton Tea Tobacco,49726
+Bangladesh,Maize Rice Soybeans Wheat,167508,888.6276232999999,34.308,42.66500092,Cotton Tea Tobacco,69169
+Belgium,Maize Wheat,160139,67003.27067,97.876,1.1770000459999999,Tobacco,28306
+Belize,Maize Rice Soybeans Yams,192691,6840.329318000001,45.406000000000006,15.93700027,Cocoa Coffee,14865
+Benin,Maize Rice Soybeans Yams,206058,983.1628383999999,45.695,41.81900024,Coffee Cotton Tobacco,21172
+Bhutan,Maize Rice Soybeans Wheat,102874,1426.6095810000002,38.678000000000004,57.98600006,Tobacco,14957
+Bolivia,Maize Rice Soybeans Wheat,88115,1909.249473,68.393,27.84799957,Cocoa Coffee Cotton Tea Tobacco,77532
+Brazil,Maize Rice Soybeans Wheat Yams,255253,11165.11065,85.77,10.24199963,Cocoa Coffee Cotton Tea Tobacco,110575
+Bulgaria,Maize Rice Soybeans Wheat,169141,9496.008272,73.99,6.855999947000001,Cotton Tobacco,22421
+Burkina Faso,Maize Rice Soybeans Yams,111192,1825.037893,27.53,29.44199944,Cotton Tobacco,18982
+Burundi,Maize Rice Soybeans Wheat Yams,126906,209.41528180000003,12.078,91.56099701,Coffee Cotton Tea Tobacco,78317
+Cambodia,Maize Rice Soybeans,96915,1620.994801,22.188000000000002,28.79999924,Coffee Cotton Tobacco,39673
+Cameroon,Maize Rice Soybeans Wheat Yams,168843,791.5239374,54.578,62.34799957,Cocoa Coffee Cotton Tea Tobacco,60931
+Canada,Maize Soybeans Wheat,170765,68786.27919,81.259,2.012000084,Tobacco,27662
+Central African Republic,Maize Rice Yams,105219,394.1931978,40.277,85.6269989,Cocoa Coffee Cotton Tobacco,16932
+Chad,Maize Rice Wheat Yams,142627,1545.468252,22.515,85.93900299,Cotton Tobacco,22307
+Chile,Maize Rice Wheat,241710,11682.91955,87.36,9.376999855,Tobacco,31200
+China,Maize Rice Soybeans Wheat Maize Rice Soybeans Wheat,400546,4839.156834,55.5,19.54800034,Coffee Cotton Tea Tobacco Coffee Cotton Tea Tobacco,231773
+Colombia,Maize Rice Soybeans Wheat Yams,226117,5791.188822,79.764,15.99100018,Cocoa Coffee Cotton Tea Tobacco,95038
+Congo,Maize Rice Yams,60811,968.9446423,65.543,36.93700027,Cocoa Coffee Tobacco,10333
+Costa Rica,Maize Rice Yams,211815,9880.278956,76.862,12.30700016,Cocoa Coffee Cotton Tobacco,38488
+Croatia,Maize Soybeans Wheat,173054,13537.949690000001,56.155,9.227999687,Tobacco,19721
+Cuba,Maize Rice Yams,117754,2857.972338,76.896,18.30900002,Cocoa Coffee Tobacco,21786
+Cyprus,Wheat,8230,21401.67073,66.946,3.9949998860000004,Tobacco,43155
+Dominican Republic,Maize Rice Yams,117025,6219.24319,78.566,13.30900002,Cocoa Coffee Tobacco,25185
+Ecuador,Maize Rice Soybeans Wheat,108702,4517.5781719999995,63.398,26.19199944,Cocoa Coffee Cotton Tea Tobacco,56875
+Egypt,Maize Rice Soybeans Wheat,269276,5000.607265,42.785,25.81500053,Cotton,22213
+El Salvador,Maize Rice Soybeans,118223,2422.1018719999997,69.7,18.11100006,Cocoa Coffee Cotton Tea Tobacco,61684
+Eswatini,Maize Rice Wheat,62065,2454.394839,23.3,68.07700348,Cotton Tobacco,10832
+Ethiopia,Maize Rice Soybeans Wheat Yams,413763,532.8828386,19.428,69.88700104,Coffee Cotton Tea Tobacco,37881
+Fiji,Maize Rice Yams,210000,2625.980273,54.726000000000006,39.39500046,Cocoa Coffee Tobacco,12777
+France,Maize Rice Soybeans Wheat,207830,61164.078629999996,79.655,2.7449998860000004,Tobacco,26038
+Gabon,Maize Rice Soybeans Yams,110412,3587.7770130000004,88.118,41.23300171,Cocoa Coffee,4062
+Gambia,Maize Rice,17732,1154.612773,59.228,28.43700027,Cotton,3482
+Georgia,Maize Soybeans Wheat,84469,1322.153491,57.448,41.79499817,Tea Tobacco,13079
+Germany,Maize Soybeans Wheat,199796,37052.8173,77.2,1.394000053,Tobacco,26106
+Ghana,Maize Rice Soybeans Yams,233985,1963.1023850000001,54.086000000000006,42.52799988,Cocoa Coffee Cotton Tobacco,35708
+Greece,Maize Rice Soybeans Wheat,257598,19285.784359999998,78.046,12.89799976,Cotton Tobacco,45661
+Guatemala,Maize Rice Soybeans Wheat,97950,2841.361465,49.971000000000004,31.87599945,Cocoa Coffee Cotton Tea Tobacco,92212
+Guinea,Maize Rice Yams,106747,550.2216453999999,35.141,67.96199799,Cocoa Coffee Cotton Tobacco,31455
+Guinea-Bissau,Maize Rice,24885,723.5760528,42.123000000000005,83.70400238,Cotton,11308
+Guyana,Maize Rice Yams,105635,10548.36066,26.441,15.22000027,Cocoa Coffee Tobacco,20012
+Haiti,Maize Rice Yams,128066,920.2392943,52.427,42.58499908,Cocoa Coffee Cotton Tobacco,27359
+Honduras,Maize Rice Soybeans Wheat,80955,2115.399308,55.165,28.72200012,Cocoa Coffee Cotton Tobacco,48858
+Hungary,Maize Rice Soybeans Wheat,207248,21845.9277,70.5,4.900000095,Tobacco,15597
+India,Maize Rice Soybeans Wheat,106173,1519.354766,32.777,44.36199951,Cocoa Coffee Cotton Tea Tobacco,60799
+Indonesia,Maize Rice Soybeans,120309,3331.6803440000003,53.313,33.04399872,Cocoa Coffee Cotton Tea Tobacco,31549
+Iran,Maize Rice Soybeans Wheat,174044,9609.67995,73.358,18.03199959,Cotton Tea Tobacco,102658
+Iraq,Maize Rice Soybeans Wheat,128143,2315.909463,69.921,20.3029995,Cotton Tobacco,28169
+Israel,Maize Wheat,268427,85944.93832,92.179,1.042999983,Cotton Tobacco,38948
+Italy,Maize Rice Soybeans Wheat,250881,46202.5327,69.565,3.752000093,Tobacco,34523
+Jamaica,Maize Rice Yams,226735,3296.7241289999997,54.833,18.46500015,Cocoa Coffee Tobacco,33063
+Japan,Maize Rice Soybeans Wheat Yams,351772,25365.13941,91.381,3.632999897,Tea Tobacco,43437
+Jordan,Maize Wheat,361699,11072.80362,90.256,3.6710000039999997,Tobacco,14679
+Kazakhstan,Maize Rice Soybeans Wheat,137802,5214.575793,57.191,18.01300049,Cotton Tobacco,57625
+Kenya,Maize Rice Soybeans Wheat Yams,169665,2002.4791719999998,25.658,37.75299835,Coffee Cotton Tea Tobacco,34163
+Kyrgyzstan,Maize Rice Soybeans Wheat,135428,1346.6263,35.777,29.30800056,Cotton Tobacco,57667
+Laos,Maize Rice Soybeans,118432,851.9345947,33.108000000000004,63.11800003,Coffee Cotton Tea Tobacco,164866
+Lebanon,Maize Wheat,72217,24057.22247,88.10600000000001,3.220000029,Tobacco,11638
+Liberia,Rice Soybeans Yams,101967,1019.802855,49.82,43.35499954,Cocoa Coffee,3921
+Madagascar,Maize Rice Soybeans Wheat,88220,246.90115640000002,35.193000000000005,74.50099945,Cocoa Coffee Cotton Tea Tobacco,36071
+Malawi,Maize Rice Soybeans Wheat,49720,396.66130710000004,16.313,84.84700012,Coffee Cotton Tea Tobacco,66961
+Malaysia,Maize Rice,104371,16332.1047,74.21300000000001,12.46899986,Cocoa Coffee Tea Tobacco,103266
+Mali,Maize Rice Soybeans Wheat Yams,351567,1150.021086,39.991,62.26599884,Cotton Tea Tobacco,48248
+Mauritius,Maize Rice,89896,9386.886927,41.0,7.541999817000001,Tea Tobacco,39080
+Mexico,Maize Rice Soybeans Wheat,170241,5208.332006000001,79.285,13.52999973,Cocoa Coffee Cotton Tobacco,78875
+Montenegro,Maize Wheat,73695,22882.55182,65.806,7.765999794,Tea Tobacco,27912
+Morocco,Maize Rice Soybeans Wheat,101471,3535.7743530000002,60.809,38.59000015,Cotton Tobacco,50700
+Mozambique,Maize Rice Wheat,25897,482.36039050000005,34.4,73.56099701,Coffee Cotton Tea Tobacco,43713
+Myanmar,Maize Rice Soybeans Wheat,97977,1593.762675,29.858,51.75600052,Coffee Cotton Tea Tobacco,57748
+Nepal,Maize Rice Soybeans Wheat,92193,544.440838,18.557000000000002,72.32499695,Coffee Cotton Tea Tobacco,31650
+Nicaragua,Maize Rice Soybeans Yams,224853,1890.8744579999998,57.895,30.68199921,Cocoa Coffee Cotton Tobacco,58009
+Niger,Maize Rice Wheat,76669,483.2261766,16.247,76.08699799,Cotton Tobacco,27766
+Nigeria,Maize Rice Soybeans Wheat Yams,142617,5464.50911,47.838,36.38299942,Cocoa Coffee Cotton Tobacco,29916
+North Macedonia,Maize Rice Soybeans Wheat,143841,7305.719082,57.408,17.86499977,Tobacco,15406
+Oman,Maize Wheat,110925,7677.603408,81.35,5.960999966,Tobacco,45448
+Pakistan,Maize Rice Soybeans Wheat,119508,1812.889723,36.025999999999996,41.00999832,Cotton Tobacco,43384
+Palestine,Wheat,25715,5354.0288740000005,75.368,8.649999618999999,Tobacco,7019
+Panama,Maize Rice Soybeans Yams,101520,4004.390618,66.696,15.73200035,Cocoa Coffee Tobacco,24149
+Paraguay,Maize Rice Soybeans Wheat,168860,8693.6621,60.75,19.70199966,Coffee Cotton Tobacco,54781
+Peru,Maize Rice Soybeans Wheat,140297,2478.647644,77.357,28.26199913,Cocoa Coffee Cotton Tea Tobacco,147204
+Philippines,Maize Rice Soybeans Yams,135952,2197.244344,46.284,29.15200043,Cocoa Coffee Cotton Tobacco,29620
+Poland,Maize Soybeans Wheat,138272,5843.134083,60.278,11.5340004,Tobacco,20251
+Portugal,Maize Rice Wheat Yams,332402,14214.10024,63.513999999999996,7.53000021,Tea Tobacco,69243
+South Korea,Maize Rice Soybeans Wheat,173224,18455.13565,81.634,5.18599987,Tea Tobacco,35385
+Romania,Maize Rice Soybeans Wheat,148454,4405.416737,53.887,25.58600044,Tobacco,13745
+Russia,Maize Rice Soybeans Wheat,149738,12995.43656,74.05,6.7100000379999996,Tea Tobacco,20485
+Rwanda,Maize Rice Soybeans Wheat Yams,163424,547.5282798,17.004,67.31800079,Coffee Tea Tobacco,30815
+Saint Lucia,Yams,36813,2811.412045,18.515,14.70699978,Cocoa,16530
+Samoa,Yams,36489,35774.424810000004,18.914,5.353000164,Cocoa Coffee Tobacco,55836
+Sao Tome and Principe,Maize Yams,79021,2384.653711,70.17399999999999,18.74699974,Cocoa Coffee,1429
+Senegal,Maize Rice,55347,868.6941802000001,45.861999999999995,53.9980011,Cotton,11153
+Serbia,Maize Soybeans Wheat,153110,6509.066656,55.696000000000005,19.45899963,Tobacco,12442
+Sierra Leone,Maize Rice,14769,1154.926061,40.829,60.8730011,Cocoa Coffee Tobacco,30477
+Slovakia,Maize Soybeans Wheat,177492,44485.22205,53.888999999999996,3.178999901,Tobacco,4286
+South Africa,Maize Rice Soybeans Wheat,119683,10835.54636,64.828,5.612999916000001,Cotton Tea Tobacco,79091
+Spain,Maize Rice Soybeans Wheat,253437,46607.41705,79.602,4.124000072,Cotton Tobacco,54491
+Sri Lanka,Maize Rice Soybeans,90402,2596.236314,18.256,28.09300041,Cocoa Coffee Cotton Tea Tobacco,98102
+Sudan,Maize Rice Wheat Yams,98111,4076.786857,33.894,52.82400131,Cotton,19512
+Suriname,Maize Rice Soybeans,79063,97488.66721,66.056,2.444000006,Cocoa Coffee,534
+Switzerland,Maize Soybeans Wheat,171139,25708.98459,73.718,3.4389998910000004,Tobacco,20801
+Tajikistan,Maize Rice Soybeans Wheat,228380,1002.4033019999999,26.741999999999997,51.787998200000004,Cotton Tobacco,30517
+Thailand,Maize Rice Soybeans Wheat,99609,2956.267007,47.693999999999996,32.28099823,Cocoa Coffee Cotton Tea Tobacco,132969
+Timor,Maize Rice Soybeans,65649,1915.7262469999998,29.49,39.07899857,Cocoa Coffee,2868
+Togo,Maize Rice Soybeans Yams,122534,994.6762674,40.1,39.43099976,Cocoa Coffee Cotton Tobacco,24180
+Tonga,Yams,136683,5267.457897,23.275,30.96800041,Coffee,14498
+Trinidad and Tobago,Maize Rice Yams,61832,4787.312199,53.318999999999996,3.696000099,Cocoa Coffee Tobacco,21638
+Tunisia,Wheat,18227,9668.474605,68.056,13.20300007,Cotton Tobacco,20037
+Turkey,Maize Rice Soybeans Wheat,243743,15236.23535,73.611,20.40600014,Cotton Tea Tobacco,90475
+Uganda,Maize Rice Soybeans Wheat,70334,574.4531631,22.06,71.00700378,Cocoa Coffee Cotton Tea Tobacco,59356
+Ukraine,Maize Rice Soybeans Wheat,184999,4423.502455,69.061,15.25699997,Tobacco,25800
+United Arab Emirates,Maize,333965,193905.3122,85.67399999999999,0.19799999899999998,Tobacco,138242
+Uruguay,Maize Rice Soybeans Wheat,207752,23018.48287,95.045,8.824000359,Tobacco,39580
+Uzbekistan,Maize Rice Soybeans Wheat,253296,3179.070812,50.75,22.84600067,Cotton Tobacco,43585
+Yemen,Maize Wheat,26544,873.9617380000001,34.777,34.67499924,Coffee Cotton Tobacco,37851
+Zambia,Maize Rice Soybeans Wheat,122307,584.557209,41.907,53.66600037,Coffee Cotton Tea Tobacco,49272
+Zimbabwe,Maize Rice Soybeans Wheat,58047,293.15205019999996,32.385,67.20999908,Coffee Cotton Tea Tobacco,55880
