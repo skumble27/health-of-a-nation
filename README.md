@@ -14,7 +14,7 @@ The project will involve utilising various technologies in order to launch a web
 
 ***Website development***
 
-Utilising HTML and CSS languages, a website will then be developed in which to provide all the required data visuals that related to Healthcare, Agriculture and the Environment. Users will have the option of selecting different industries of interest in which to view the statistics relating to each country. 
+Utilising HTML and CSS languages, a website will then be developed in which to provide all the required data visuals that are related to Healthcare, Agriculture and the Environment. Users will have the option of selecting different industries of interest in which to view the statistics relating to each country. 
 
 **Interactive Data Dashboard**
 
