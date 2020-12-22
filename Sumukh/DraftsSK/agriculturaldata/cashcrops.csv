@@ -1,0 +1,409 @@
+﻿Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QC,Crops,2,Afghanistan,5419,Yield,328,Cotton,2018,2018,kg/ha,10000,Fc,Calculated data
+QC,Crops,3,Albania,5419,Yield,328,Cotton,2018,2018,kg/ha,11081,Fc,Calculated data
+QC,Crops,3,Albania,5419,Yield,826,Tobacco,2018,2018,kg/ha,16863,Fc,Calculated data
+QC,Crops,4,Algeria,5419,Yield,328,Cotton,2018,2018,kg/ha,3077,Fc,Calculated data
+QC,Crops,4,Algeria,5419,Yield,826,Tobacco,2018,2018,kg/ha,20967,Fc,Calculated data
+QC,Crops,5,American Samoa,5419,Yield,661,Cocoa,2018,2018,kg/ha,542,Fc,Calculated data
+QC,Crops,7,Angola,5419,Yield,661,Cocoa,2018,2018,kg/ha,1615,Fc,Calculated data
+QC,Crops,7,Angola,5419,Yield,656,Coffee,2018,2018,kg/ha,3037,Fc,Calculated data
+QC,Crops,7,Angola,5419,Yield,328,Cotton,2018,2018,kg/ha,18333,Fc,Calculated data
+QC,Crops,7,Angola,5419,Yield,826,Tobacco,2018,2018,kg/ha,10280,Fc,Calculated data
+QC,Crops,8,Antigua and Barbuda,5419,Yield,328,Cotton,2018,2018,kg/ha,1750,Fc,Calculated data
+QC,Crops,9,Argentina,5419,Yield,328,Cotton,2018,2018,kg/ha,25485,Fc,Calculated data
+QC,Crops,9,Argentina,5419,Yield,667,Tea,2018,2018,kg/ha,20702,Fc,Calculated data
+QC,Crops,9,Argentina,5419,Yield,826,Tobacco,2018,2018,kg/ha,19020,Fc,Calculated data
+QC,Crops,1,Armenia,5419,Yield,826,Tobacco,2018,2018,kg/ha,23257,Fc,Calculated data
+QC,Crops,10,Australia,5419,Yield,328,Cotton,2018,2018,kg/ha,51536,Fc,Calculated data
+QC,Crops,10,Australia,5419,Yield,826,Tobacco,2018,2018,kg/ha,27380,Fc,Calculated data
+QC,Crops,11,Austria,5419,Yield,826,Tobacco,2018,2018,kg/ha,16781,Fc,Calculated data
+QC,Crops,52,Azerbaijan,5419,Yield,328,Cotton,2018,2018,kg/ha,17628,Fc,Calculated data
+QC,Crops,52,Azerbaijan,5419,Yield,667,Tea,2018,2018,kg/ha,13101,Fc,Calculated data
+QC,Crops,52,Azerbaijan,5419,Yield,826,Tobacco,2018,2018,kg/ha,18997,Fc,Calculated data
+QC,Crops,16,Bangladesh,5419,Yield,328,Cotton,2018,2018,kg/ha,36548,Fc,Calculated data
+QC,Crops,16,Bangladesh,5419,Yield,667,Tea,2018,2018,kg/ha,11656,Fc,Calculated data
+QC,Crops,16,Bangladesh,5419,Yield,826,Tobacco,2018,2018,kg/ha,20965,Fc,Calculated data
+QC,Crops,255,Belgium,5419,Yield,826,Tobacco,2018,2018,kg/ha,28306,Fc,Calculated data
+QC,Crops,23,Belize,5419,Yield,661,Cocoa,2018,2018,kg/ha,2149,Fc,Calculated data
+QC,Crops,23,Belize,5419,Yield,656,Coffee,2018,2018,kg/ha,12716,Fc,Calculated data
+QC,Crops,53,Benin,5419,Yield,656,Coffee,2018,2018,kg/ha,1801,Fc,Calculated data
+QC,Crops,53,Benin,5419,Yield,328,Cotton,2018,2018,kg/ha,12633,Fc,Calculated data
+QC,Crops,53,Benin,5419,Yield,826,Tobacco,2018,2018,kg/ha,6738,Fc,Calculated data
+QC,Crops,18,Bhutan,5419,Yield,826,Tobacco,2018,2018,kg/ha,14957,Fc,Calculated data
+QC,Crops,19,Bolivia,5419,Yield,661,Cocoa,2018,2018,kg/ha,5653,Fc,Calculated data
+QC,Crops,19,Bolivia,5419,Yield,656,Coffee,2018,2018,kg/ha,8994,Fc,Calculated data
+QC,Crops,19,Bolivia,5419,Yield,328,Cotton,2018,2018,kg/ha,9286,Fc,Calculated data
+QC,Crops,19,Bolivia,5419,Yield,667,Tea,2018,2018,kg/ha,43545,Fc,Calculated data
+QC,Crops,19,Bolivia,5419,Yield,826,Tobacco,2018,2018,kg/ha,10054,Fc,Calculated data
+QC,Crops,80,Bosnia,5419,Yield,826,Tobacco,2018,2018,kg/ha,15270,Fc,Calculated data
+QC,Crops,20,Botswana,5419,Yield,328,Cotton,2018,2018,kg/ha,20000,Fc,Calculated data
+QC,Crops,21,Brazil,5419,Yield,661,Cocoa,2018,2018,kg/ha,4147,Fc,Calculated data
+QC,Crops,21,Brazil,5419,Yield,656,Coffee,2018,2018,kg/ha,19058,Fc,Calculated data
+QC,Crops,21,Brazil,5419,Yield,328,Cotton,2018,2018,kg/ha,43096,Fc,Calculated data
+QC,Crops,21,Brazil,5419,Yield,667,Tea,2018,2018,kg/ha,22891,Fc,Calculated data
+QC,Crops,21,Brazil,5419,Yield,826,Tobacco,2018,2018,kg/ha,21383,Fc,Calculated data
+QC,Crops,27,Bulgaria,5419,Yield,328,Cotton,2018,2018,kg/ha,7555,Fc,Calculated data
+QC,Crops,27,Bulgaria,5419,Yield,826,Tobacco,2018,2018,kg/ha,14866,Fc,Calculated data
+QC,Crops,233,Burkina Faso,5419,Yield,328,Cotton,2018,2018,kg/ha,10186,Fc,Calculated data
+QC,Crops,233,Burkina Faso,5419,Yield,826,Tobacco,2018,2018,kg/ha,8796,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,656,Coffee,2018,2018,kg/ha,9694,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,328,Cotton,2018,2018,kg/ha,6814,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,667,Tea,2018,2018,kg/ha,55243,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,826,Tobacco,2018,2018,kg/ha,6566,Fc,Calculated data
+QC,Crops,35,Cabo Verde,5419,Yield,656,Coffee,2018,2018,kg/ha,2074,Fc,Calculated data
+QC,Crops,115,Cambodia,5419,Yield,656,Coffee,2018,2018,kg/ha,7995,Fc,Calculated data
+QC,Crops,115,Cambodia,5419,Yield,328,Cotton,2018,2018,kg/ha,13268,Fc,Calculated data
+QC,Crops,115,Cambodia,5419,Yield,826,Tobacco,2018,2018,kg/ha,18410,Fc,Calculated data
+QC,Crops,32,Cameroon,5419,Yield,661,Cocoa,2018,2018,kg/ha,4098,Fc,Calculated data
+QC,Crops,32,Cameroon,5419,Yield,656,Coffee,2018,2018,kg/ha,3124,Fc,Calculated data
+QC,Crops,32,Cameroon,5419,Yield,328,Cotton,2018,2018,kg/ha,10872,Fc,Calculated data
+QC,Crops,32,Cameroon,5419,Yield,667,Tea,2018,2018,kg/ha,26656,Fc,Calculated data
+QC,Crops,32,Cameroon,5419,Yield,826,Tobacco,2018,2018,kg/ha,16181,Fc,Calculated data
+QC,Crops,33,Canada,5419,Yield,826,Tobacco,2018,2018,kg/ha,27662,Fc,Calculated data
+QC,Crops,37,Central African Republic,5419,Yield,661,Cocoa,2018,2018,kg/ha,505,Fc,Calculated data
+QC,Crops,37,Central African Republic,5419,Yield,656,Coffee,2018,2018,kg/ha,3359,Fc,Calculated data
+QC,Crops,37,Central African Republic,5419,Yield,328,Cotton,2018,2018,kg/ha,4316,Fc,Calculated data
+QC,Crops,37,Central African Republic,5419,Yield,826,Tobacco,2018,2018,kg/ha,8752,Fc,Calculated data
+QC,Crops,39,Chad,5419,Yield,328,Cotton,2018,2018,kg/ha,10000,Fc,Calculated data
+QC,Crops,39,Chad,5419,Yield,826,Tobacco,2018,2018,kg/ha,12307,Fc,Calculated data
+QC,Crops,40,Chile,5419,Yield,826,Tobacco,2018,2018,kg/ha,31200,Fc,Calculated data
+QC,Crops,351,China,5419,Yield,656,Coffee,2018,2018,kg/ha,29569,Fc,Calculated data
+QC,Crops,351,China,5419,Yield,328,Cotton,2018,2018,kg/ha,52802,Fc,Calculated data
+QC,Crops,351,China,5419,Yield,667,Tea,2018,2018,kg/ha,11182,Fc,Calculated data
+QC,Crops,351,China,5419,Yield,826,Tobacco,2018,2018,kg/ha,22338,Fc,Calculated data
+QC,Crops,41,China,5419,Yield,656,Coffee,2018,2018,kg/ha,29569,Fc,Calculated data
+QC,Crops,41,China,5419,Yield,328,Cotton,2018,2018,kg/ha,52802,Fc,Calculated data
+QC,Crops,41,China,5419,Yield,667,Tea,2018,2018,kg/ha,11174,Fc,Calculated data
+QC,Crops,41,China,5419,Yield,826,Tobacco,2018,2018,kg/ha,22337,Fc,Calculated data
+QC,Crops,214,Taiwan,5419,Yield,667,Tea,2018,2018,kg/ha,12640,Fc,Calculated data
+QC,Crops,214,Taiwan,5419,Yield,826,Tobacco,2018,2018,kg/ha,23743,Fc,Calculated data
+QC,Crops,44,Colombia,5419,Yield,661,Cocoa,2018,2018,kg/ha,3626,Fc,Calculated data
+QC,Crops,44,Colombia,5419,Yield,656,Coffee,2018,2018,kg/ha,9283,Fc,Calculated data
+QC,Crops,44,Colombia,5419,Yield,328,Cotton,2018,2018,kg/ha,39077,Fc,Calculated data
+QC,Crops,44,Colombia,5419,Yield,667,Tea,2018,2018,kg/ha,25328,Fc,Calculated data
+QC,Crops,44,Colombia,5419,Yield,826,Tobacco,2018,2018,kg/ha,17724,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,661,Cocoa,2018,2018,kg/ha,3342,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,656,Coffee,2018,2018,kg/ha,1313,Fc,Calculated data
+QC,Crops,46,Congo,5419,Yield,661,Cocoa,2018,2018,kg/ha,2776,Fc,Calculated data
+QC,Crops,46,Congo,5419,Yield,656,Coffee,2018,2018,kg/ha,3106,Fc,Calculated data
+QC,Crops,46,Congo,5419,Yield,826,Tobacco,2018,2018,kg/ha,4451,Fc,Calculated data
+QC,Crops,47,Cook Islands,5419,Yield,656,Coffee,2018,2018,kg/ha,8145,Fc,Calculated data
+QC,Crops,48,Costa Rica,5419,Yield,661,Cocoa,2018,2018,kg/ha,1266,Fc,Calculated data
+QC,Crops,48,Costa Rica,5419,Yield,656,Coffee,2018,2018,kg/ha,10143,Fc,Calculated data
+QC,Crops,48,Costa Rica,5419,Yield,328,Cotton,2018,2018,kg/ha,7079,Fc,Calculated data
+QC,Crops,48,Costa Rica,5419,Yield,826,Tobacco,2018,2018,kg/ha,20000,Fc,Calculated data
+QC,Crops,107,Côte d'Ivoire,5419,Yield,661,Cocoa,2018,2018,kg/ha,4891,Fc,Calculated data
+QC,Crops,107,Côte d'Ivoire,5419,Yield,656,Coffee,2018,2018,kg/ha,1487,Fc,Calculated data
+QC,Crops,107,Côte d'Ivoire,5419,Yield,328,Cotton,2018,2018,kg/ha,8545,Fc,Calculated data
+QC,Crops,107,Côte d'Ivoire,5419,Yield,826,Tobacco,2018,2018,kg/ha,5046,Fc,Calculated data
+QC,Crops,98,Croatia,5419,Yield,826,Tobacco,2018,2018,kg/ha,19721,Fc,Calculated data
+QC,Crops,49,Cuba,5419,Yield,661,Cocoa,2018,2018,kg/ha,2569,Fc,Calculated data
+QC,Crops,49,Cuba,5419,Yield,656,Coffee,2018,2018,kg/ha,3217,Fc,Calculated data
+QC,Crops,49,Cuba,5419,Yield,826,Tobacco,2018,2018,kg/ha,16000,Fc,Calculated data
+QC,Crops,50,Cyprus,5419,Yield,826,Tobacco,2018,2018,kg/ha,43155,Fc,Calculated data
+QC,Crops,116,North Korea,5419,Yield,328,Cotton,2018,2018,kg/ha,19441,Fc,Calculated data
+QC,Crops,116,North Korea,5419,Yield,826,Tobacco,2018,2018,kg/ha,15095,Fc,Calculated data
+QC,Crops,250,Democratic Republic of the Congo,5419,Yield,661,Cocoa,2018,2018,kg/ha,2854,Fc,Calculated data
+QC,Crops,250,Democratic Republic of the Congo,5419,Yield,656,Coffee,2018,2018,kg/ha,3928,Fc,Calculated data
+QC,Crops,250,Democratic Republic of the Congo,5419,Yield,328,Cotton,2018,2018,kg/ha,4251,Fc,Calculated data
+QC,Crops,250,Democratic Republic of the Congo,5419,Yield,667,Tea,2018,2018,kg/ha,2978,Fc,Calculated data
+QC,Crops,250,Democratic Republic of the Congo,5419,Yield,826,Tobacco,2018,2018,kg/ha,4929,Fc,Calculated data
+QC,Crops,55,Dominica,5419,Yield,661,Cocoa,2018,2018,kg/ha,1047,Fc,Calculated data
+QC,Crops,55,Dominica,5419,Yield,656,Coffee,2018,2018,kg/ha,3976,Fc,Calculated data
+QC,Crops,56,Dominican Republic,5419,Yield,661,Cocoa,2018,2018,kg/ha,5557,Fc,Calculated data
+QC,Crops,56,Dominican Republic,5419,Yield,656,Coffee,2018,2018,kg/ha,2452,Fc,Calculated data
+QC,Crops,56,Dominican Republic,5419,Yield,826,Tobacco,2018,2018,kg/ha,17176,Fc,Calculated data
+QC,Crops,58,Ecuador,5419,Yield,661,Cocoa,2018,2018,kg/ha,4685,Fc,Calculated data
+QC,Crops,58,Ecuador,5419,Yield,656,Coffee,2018,2018,kg/ha,1587,Fc,Calculated data
+QC,Crops,58,Ecuador,5419,Yield,328,Cotton,2018,2018,kg/ha,12938,Fc,Calculated data
+QC,Crops,58,Ecuador,5419,Yield,667,Tea,2018,2018,kg/ha,21612,Fc,Calculated data
+QC,Crops,58,Ecuador,5419,Yield,826,Tobacco,2018,2018,kg/ha,16053,Fc,Calculated data
+QC,Crops,59,Egypt,5419,Yield,328,Cotton,2018,2018,kg/ha,22213,Fc,Calculated data
+QC,Crops,60,El Salvador,5419,Yield,661,Cocoa,2018,2018,kg/ha,2284,Fc,Calculated data
+QC,Crops,60,El Salvador,5419,Yield,656,Coffee,2018,2018,kg/ha,6138,Fc,Calculated data
+QC,Crops,60,El Salvador,5419,Yield,328,Cotton,2018,2018,kg/ha,12222,Fc,Calculated data
+QC,Crops,60,El Salvador,5419,Yield,667,Tea,2018,2018,kg/ha,19837,Fc,Calculated data
+QC,Crops,60,El Salvador,5419,Yield,826,Tobacco,2018,2018,kg/ha,21203,Fc,Calculated data
+QC,Crops,61,Equatorial Guinea,5419,Yield,661,Cocoa,2018,2018,kg/ha,1006,Fc,Calculated data
+QC,Crops,61,Equatorial Guinea,5419,Yield,656,Coffee,2018,2018,kg/ha,3679,Fc,Calculated data
+QC,Crops,209,Eswatini,5419,Yield,328,Cotton,2018,2018,kg/ha,6549,Fc,Calculated data
+QC,Crops,209,Eswatini,5419,Yield,826,Tobacco,2018,2018,kg/ha,4283,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,656,Coffee,2018,2018,kg/ha,6854,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,328,Cotton,2018,2018,kg/ha,13214,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,667,Tea,2018,2018,kg/ha,11052,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,826,Tobacco,2018,2018,kg/ha,6761,Fc,Calculated data
+QC,Crops,66,Fiji,5419,Yield,661,Cocoa,2018,2018,kg/ha,918,Fc,Calculated data
+QC,Crops,66,Fiji,5419,Yield,656,Coffee,2018,2018,kg/ha,4967,Fc,Calculated data
+QC,Crops,66,Fiji,5419,Yield,826,Tobacco,2018,2018,kg/ha,6892,Fc,Calculated data
+QC,Crops,68,France,5419,Yield,826,Tobacco,2018,2018,kg/ha,26038,Fc,Calculated data
+QC,Crops,70,French Polynesia,5419,Yield,656,Coffee,2018,2018,kg/ha,2254,Fc,Calculated data
+QC,Crops,74,Gabon,5419,Yield,661,Cocoa,2018,2018,kg/ha,630,Fc,Calculated data
+QC,Crops,74,Gabon,5419,Yield,656,Coffee,2018,2018,kg/ha,3432,Fc,Calculated data
+QC,Crops,75,Gambia,5419,Yield,328,Cotton,2018,2018,kg/ha,3482,Fc,Calculated data
+QC,Crops,73,Georgia,5419,Yield,667,Tea,2018,2018,kg/ha,9987,Fc,Calculated data
+QC,Crops,73,Georgia,5419,Yield,826,Tobacco,2018,2018,kg/ha,3092,Fc,Calculated data
+QC,Crops,79,Germany,5419,Yield,826,Tobacco,2018,2018,kg/ha,26106,Fc,Calculated data
+QC,Crops,81,Ghana,5419,Yield,661,Cocoa,2018,2018,kg/ha,5299,Fc,Calculated data
+QC,Crops,81,Ghana,5419,Yield,656,Coffee,2018,2018,kg/ha,16770,Fc,Calculated data
+QC,Crops,81,Ghana,5419,Yield,328,Cotton,2018,2018,kg/ha,9516,Fc,Calculated data
+QC,Crops,81,Ghana,5419,Yield,826,Tobacco,2018,2018,kg/ha,4123,Fc,Calculated data
+QC,Crops,84,Greece,5419,Yield,328,Cotton,2018,2018,kg/ha,31543,Fc,Calculated data
+QC,Crops,84,Greece,5419,Yield,826,Tobacco,2018,2018,kg/ha,14118,Fc,Calculated data
+QC,Crops,86,Grenada,5419,Yield,661,Cocoa,2018,2018,kg/ha,6638,Fc,Calculated data
+QC,Crops,86,Grenada,5419,Yield,328,Cotton,2018,2018,kg/ha,3326,Fc,Calculated data
+QC,Crops,87,Guadeloupe,5419,Yield,661,Cocoa,2018,2018,kg/ha,934,Fc,Calculated data
+QC,Crops,87,Guadeloupe,5419,Yield,656,Coffee,2018,2018,kg/ha,8831,Fc,Calculated data
+QC,Crops,89,Guatemala,5419,Yield,661,Cocoa,2018,2018,kg/ha,27722,Fc,Calculated data
+QC,Crops,89,Guatemala,5419,Yield,656,Coffee,2018,2018,kg/ha,8403,Fc,Calculated data
+QC,Crops,89,Guatemala,5419,Yield,328,Cotton,2018,2018,kg/ha,30624,Fc,Calculated data
+QC,Crops,89,Guatemala,5419,Yield,667,Tea,2018,2018,kg/ha,4495,Fc,Calculated data
+QC,Crops,89,Guatemala,5419,Yield,826,Tobacco,2018,2018,kg/ha,20968,Fc,Calculated data
+QC,Crops,90,Guinea,5419,Yield,661,Cocoa,2018,2018,kg/ha,4958,Fc,Calculated data
+QC,Crops,90,Guinea,5419,Yield,656,Coffee,2018,2018,kg/ha,4097,Fc,Calculated data
+QC,Crops,90,Guinea,5419,Yield,328,Cotton,2018,2018,kg/ha,9328,Fc,Calculated data
+QC,Crops,90,Guinea,5419,Yield,826,Tobacco,2018,2018,kg/ha,13072,Fc,Calculated data
+QC,Crops,175,Guinea-Bissau,5419,Yield,328,Cotton,2018,2018,kg/ha,11308,Fc,Calculated data
+QC,Crops,91,Guyana,5419,Yield,661,Cocoa,2018,2018,kg/ha,4178,Fc,Calculated data
+QC,Crops,91,Guyana,5419,Yield,656,Coffee,2018,2018,kg/ha,7853,Fc,Calculated data
+QC,Crops,91,Guyana,5419,Yield,826,Tobacco,2018,2018,kg/ha,7981,Fc,Calculated data
+QC,Crops,93,Haiti,5419,Yield,661,Cocoa,2018,2018,kg/ha,4866,Fc,Calculated data
+QC,Crops,93,Haiti,5419,Yield,656,Coffee,2018,2018,kg/ha,5169,Fc,Calculated data
+QC,Crops,93,Haiti,5419,Yield,328,Cotton,2018,2018,kg/ha,5113,Fc,Calculated data
+QC,Crops,93,Haiti,5419,Yield,826,Tobacco,2018,2018,kg/ha,12211,Fc,Calculated data
+QC,Crops,95,Honduras,5419,Yield,661,Cocoa,2018,2018,kg/ha,2441,Fc,Calculated data
+QC,Crops,95,Honduras,5419,Yield,656,Coffee,2018,2018,kg/ha,11123,Fc,Calculated data
+QC,Crops,95,Honduras,5419,Yield,328,Cotton,2018,2018,kg/ha,18188,Fc,Calculated data
+QC,Crops,95,Honduras,5419,Yield,826,Tobacco,2018,2018,kg/ha,17106,Fc,Calculated data
+QC,Crops,97,Hungary,5419,Yield,826,Tobacco,2018,2018,kg/ha,15597,Fc,Calculated data
+QC,Crops,100,India,5419,Yield,661,Cocoa,2018,2018,kg/ha,2212,Fc,Calculated data
+QC,Crops,100,India,5419,Yield,656,Coffee,2018,2018,kg/ha,7360,Fc,Calculated data
+QC,Crops,100,India,5419,Yield,328,Cotton,2018,2018,kg/ha,11868,Fc,Calculated data
+QC,Crops,100,India,5419,Yield,667,Tea,2018,2018,kg/ha,21408,Fc,Calculated data
+QC,Crops,100,India,5419,Yield,826,Tobacco,2018,2018,kg/ha,17951,Fc,Calculated data
+QC,Crops,101,Indonesia,5419,Yield,661,Cocoa,2018,2018,kg/ha,3538,Fc,Calculated data
+QC,Crops,101,Indonesia,5419,Yield,656,Coffee,2018,2018,kg/ha,5819,Fc,Calculated data
+QC,Crops,101,Indonesia,5419,Yield,328,Cotton,2018,2018,kg/ha,788,Fc,Calculated data
+QC,Crops,101,Indonesia,5419,Yield,667,Tea,2018,2018,kg/ha,12484,Fc,Calculated data
+QC,Crops,101,Indonesia,5419,Yield,826,Tobacco,2018,2018,kg/ha,8920,Fc,Calculated data
+QC,Crops,102,Iran,5419,Yield,328,Cotton,2018,2018,kg/ha,22818,Fc,Calculated data
+QC,Crops,102,Iran,5419,Yield,667,Tea,2018,2018,kg/ha,59133,Fc,Calculated data
+QC,Crops,102,Iran,5419,Yield,826,Tobacco,2018,2018,kg/ha,20707,Fc,Calculated data
+QC,Crops,103,Iraq,5419,Yield,328,Cotton,2018,2018,kg/ha,19014,Fc,Calculated data
+QC,Crops,103,Iraq,5419,Yield,826,Tobacco,2018,2018,kg/ha,9155,Fc,Calculated data
+QC,Crops,105,Israel,5419,Yield,328,Cotton,2018,2018,kg/ha,36090,Fc,Calculated data
+QC,Crops,105,Israel,5419,Yield,826,Tobacco,2018,2018,kg/ha,2858,Fc,Calculated data
+QC,Crops,106,Italy,5419,Yield,826,Tobacco,2018,2018,kg/ha,34523,Fc,Calculated data
+QC,Crops,109,Jamaica,5419,Yield,661,Cocoa,2018,2018,kg/ha,3036,Fc,Calculated data
+QC,Crops,109,Jamaica,5419,Yield,656,Coffee,2018,2018,kg/ha,8018,Fc,Calculated data
+QC,Crops,109,Jamaica,5419,Yield,826,Tobacco,2018,2018,kg/ha,22009,Fc,Calculated data
+QC,Crops,110,Japan,5419,Yield,667,Tea,2018,2018,kg/ha,19378,Fc,Calculated data
+QC,Crops,110,Japan,5419,Yield,826,Tobacco,2018,2018,kg/ha,24059,Fc,Calculated data
+QC,Crops,112,Jordan,5419,Yield,826,Tobacco,2018,2018,kg/ha,14679,Fc,Calculated data
+QC,Crops,108,Kazakhstan,5419,Yield,328,Cotton,2018,2018,kg/ha,25916,Fc,Calculated data
+QC,Crops,108,Kazakhstan,5419,Yield,826,Tobacco,2018,2018,kg/ha,31709,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,656,Coffee,2018,2018,kg/ha,3580,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,328,Cotton,2018,2018,kg/ha,4410,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,667,Tea,2018,2018,kg/ha,20872,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,826,Tobacco,2018,2018,kg/ha,5301,Fc,Calculated data
+QC,Crops,113,Kyrgyzstan,5419,Yield,328,Cotton,2018,2018,kg/ha,32423,Fc,Calculated data
+QC,Crops,113,Kyrgyzstan,5419,Yield,826,Tobacco,2018,2018,kg/ha,25244,Fc,Calculated data
+QC,Crops,120,Laos,5419,Yield,656,Coffee,2018,2018,kg/ha,18611,Fc,Calculated data
+QC,Crops,120,Laos,5419,Yield,328,Cotton,2018,2018,kg/ha,31807,Fc,Calculated data
+QC,Crops,120,Laos,5419,Yield,667,Tea,2018,2018,kg/ha,19201,Fc,Calculated data
+QC,Crops,120,Laos,5419,Yield,826,Tobacco,2018,2018,kg/ha,95247,Fc,Calculated data
+QC,Crops,121,Lebanon,5419,Yield,826,Tobacco,2018,2018,kg/ha,11638,Fc,Calculated data
+QC,Crops,123,Liberia,5419,Yield,661,Cocoa,2018,2018,kg/ha,1533,Fc,Calculated data
+QC,Crops,123,Liberia,5419,Yield,656,Coffee,2018,2018,kg/ha,2388,Fc,Calculated data
+QC,Crops,124,Libya,5419,Yield,826,Tobacco,2018,2018,kg/ha,20574,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,661,Cocoa,2018,2018,kg/ha,8800,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,656,Coffee,2018,2018,kg/ha,5420,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,328,Cotton,2018,2018,kg/ha,8352,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,667,Tea,2018,2018,kg/ha,4972,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,826,Tobacco,2018,2018,kg/ha,8527,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,656,Coffee,2018,2018,kg/ha,23346,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,328,Cotton,2018,2018,kg/ha,5434,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,667,Tea,2018,2018,kg/ha,27104,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,826,Tobacco,2018,2018,kg/ha,11077,Fc,Calculated data
+QC,Crops,131,Malaysia,5419,Yield,661,Cocoa,2018,2018,kg/ha,836,Fc,Calculated data
+QC,Crops,131,Malaysia,5419,Yield,656,Coffee,2018,2018,kg/ha,37665,Fc,Calculated data
+QC,Crops,131,Malaysia,5419,Yield,667,Tea,2018,2018,kg/ha,57126,Fc,Calculated data
+QC,Crops,131,Malaysia,5419,Yield,826,Tobacco,2018,2018,kg/ha,7639,Fc,Calculated data
+QC,Crops,133,Mali,5419,Yield,328,Cotton,2018,2018,kg/ha,12979,Fc,Calculated data
+QC,Crops,133,Mali,5419,Yield,667,Tea,2018,2018,kg/ha,7506,Fc,Calculated data
+QC,Crops,133,Mali,5419,Yield,826,Tobacco,2018,2018,kg/ha,27763,Fc,Calculated data
+QC,Crops,135,Martinique,5419,Yield,656,Coffee,2018,2018,kg/ha,9824,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,667,Tea,2018,2018,kg/ha,22409,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,826,Tobacco,2018,2018,kg/ha,16671,Fc,Calculated data
+QC,Crops,138,Mexico,5419,Yield,661,Cocoa,2018,2018,kg/ha,4866,Fc,Calculated data
+QC,Crops,138,Mexico,5419,Yield,656,Coffee,2018,2018,kg/ha,2514,Fc,Calculated data
+QC,Crops,138,Mexico,5419,Yield,328,Cotton,2018,2018,kg/ha,48325,Fc,Calculated data
+QC,Crops,138,Mexico,5419,Yield,826,Tobacco,2018,2018,kg/ha,23170,Fc,Calculated data
+QC,Crops,145,Micronesia,5419,Yield,661,Cocoa,2018,2018,kg/ha,3855,Fc,Calculated data
+QC,Crops,273,Montenegro,5419,Yield,667,Tea,2018,2018,kg/ha,8101,Fc,Calculated data
+QC,Crops,273,Montenegro,5419,Yield,826,Tobacco,2018,2018,kg/ha,19811,Fc,Calculated data
+QC,Crops,142,Montserrat,5419,Yield,328,Cotton,2018,2018,kg/ha,9429,Fc,Calculated data
+QC,Crops,143,Morocco,5419,Yield,328,Cotton,2018,2018,kg/ha,20899,Fc,Calculated data
+QC,Crops,143,Morocco,5419,Yield,826,Tobacco,2018,2018,kg/ha,29801,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,656,Coffee,2018,2018,kg/ha,9557,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,328,Cotton,2018,2018,kg/ha,5169,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,667,Tea,2018,2018,kg/ha,17145,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,826,Tobacco,2018,2018,kg/ha,11842,Fc,Calculated data
+QC,Crops,28,Myanmar,5419,Yield,656,Coffee,2018,2018,kg/ha,7129,Fc,Calculated data
+QC,Crops,28,Myanmar,5419,Yield,328,Cotton,2018,2018,kg/ha,19078,Fc,Calculated data
+QC,Crops,28,Myanmar,5419,Yield,667,Tea,2018,2018,kg/ha,12235,Fc,Calculated data
+QC,Crops,28,Myanmar,5419,Yield,826,Tobacco,2018,2018,kg/ha,19306,Fc,Calculated data
+QC,Crops,149,Nepal,5419,Yield,656,Coffee,2018,2018,kg/ha,1936,Fc,Calculated data
+QC,Crops,149,Nepal,5419,Yield,328,Cotton,2018,2018,kg/ha,9557,Fc,Calculated data
+QC,Crops,149,Nepal,5419,Yield,667,Tea,2018,2018,kg/ha,8674,Fc,Calculated data
+QC,Crops,149,Nepal,5419,Yield,826,Tobacco,2018,2018,kg/ha,11483,Fc,Calculated data
+QC,Crops,153,New Caledonia,5419,Yield,656,Coffee,2018,2018,kg/ha,1360,Fc,Calculated data
+QC,Crops,157,Nicaragua,5419,Yield,661,Cocoa,2018,2018,kg/ha,5972,Fc,Calculated data
+QC,Crops,157,Nicaragua,5419,Yield,656,Coffee,2018,2018,kg/ha,10672,Fc,Calculated data
+QC,Crops,157,Nicaragua,5419,Yield,328,Cotton,2018,2018,kg/ha,24450,Fc,Calculated data
+QC,Crops,157,Nicaragua,5419,Yield,826,Tobacco,2018,2018,kg/ha,16915,Fc,Calculated data
+QC,Crops,158,Niger,5419,Yield,328,Cotton,2018,2018,kg/ha,6979,Fc,Calculated data
+QC,Crops,158,Niger,5419,Yield,826,Tobacco,2018,2018,kg/ha,20787,Fc,Calculated data
+QC,Crops,159,Nigeria,5419,Yield,661,Cocoa,2018,2018,kg/ha,2818,Fc,Calculated data
+QC,Crops,159,Nigeria,5419,Yield,656,Coffee,2018,2018,kg/ha,12465,Fc,Calculated data
+QC,Crops,159,Nigeria,5419,Yield,328,Cotton,2018,2018,kg/ha,8553,Fc,Calculated data
+QC,Crops,159,Nigeria,5419,Yield,826,Tobacco,2018,2018,kg/ha,6080,Fc,Calculated data
+QC,Crops,154,North Macedonia,5419,Yield,826,Tobacco,2018,2018,kg/ha,15406,Fc,Calculated data
+QC,Crops,221,Oman,5419,Yield,826,Tobacco,2018,2018,kg/ha,45448,Fc,Calculated data
+QC,Crops,165,Pakistan,5419,Yield,328,Cotton,2018,2018,kg/ha,20348,Fc,Calculated data
+QC,Crops,165,Pakistan,5419,Yield,826,Tobacco,2018,2018,kg/ha,23036,Fc,Calculated data
+QC,Crops,299,Palestine,5419,Yield,826,Tobacco,2018,2018,kg/ha,7019,Fc,Calculated data
+QC,Crops,166,Panama,5419,Yield,661,Cocoa,2018,2018,kg/ha,1251,Fc,Calculated data
+QC,Crops,166,Panama,5419,Yield,656,Coffee,2018,2018,kg/ha,4461,Fc,Calculated data
+QC,Crops,166,Panama,5419,Yield,826,Tobacco,2018,2018,kg/ha,18437,Fc,Calculated data
+QC,Crops,168,Papua New Guinea,5419,Yield,661,Cocoa,2018,2018,kg/ha,4066,Fc,Calculated data
+QC,Crops,168,Papua New Guinea,5419,Yield,656,Coffee,2018,2018,kg/ha,10640,Fc,Calculated data
+QC,Crops,168,Papua New Guinea,5419,Yield,667,Tea,2018,2018,kg/ha,14174,Fc,Calculated data
+QC,Crops,169,Paraguay,5419,Yield,656,Coffee,2018,2018,kg/ha,13781,Fc,Calculated data
+QC,Crops,169,Paraguay,5419,Yield,328,Cotton,2018,2018,kg/ha,20000,Fc,Calculated data
+QC,Crops,169,Paraguay,5419,Yield,826,Tobacco,2018,2018,kg/ha,21000,Fc,Calculated data
+QC,Crops,170,Peru,5419,Yield,661,Cocoa,2018,2018,kg/ha,8395,Fc,Calculated data
+QC,Crops,170,Peru,5419,Yield,656,Coffee,2018,2018,kg/ha,8285,Fc,Calculated data
+QC,Crops,170,Peru,5419,Yield,328,Cotton,2018,2018,kg/ha,29416,Fc,Calculated data
+QC,Crops,170,Peru,5419,Yield,667,Tea,2018,2018,kg/ha,6108,Fc,Calculated data
+QC,Crops,170,Peru,5419,Yield,826,Tobacco,2018,2018,kg/ha,95000,Fc,Calculated data
+QC,Crops,171,Philippines,5419,Yield,661,Cocoa,2018,2018,kg/ha,2942,Fc,Calculated data
+QC,Crops,171,Philippines,5419,Yield,656,Coffee,2018,2018,kg/ha,5321,Fc,Calculated data
+QC,Crops,171,Philippines,5419,Yield,328,Cotton,2018,2018,kg/ha,3499,Fc,Calculated data
+QC,Crops,171,Philippines,5419,Yield,826,Tobacco,2018,2018,kg/ha,17858,Fc,Calculated data
+QC,Crops,173,Poland,5419,Yield,826,Tobacco,2018,2018,kg/ha,20251,Fc,Calculated data
+QC,Crops,174,Portugal,5419,Yield,667,Tea,2018,2018,kg/ha,45200,Fc,Calculated data
+QC,Crops,174,Portugal,5419,Yield,826,Tobacco,2018,2018,kg/ha,24043,Fc,Calculated data
+QC,Crops,177,Puerto Rico,5419,Yield,656,Coffee,2018,2018,kg/ha,6101,Fc,Calculated data
+QC,Crops,177,Puerto Rico,5419,Yield,826,Tobacco,2018,2018,kg/ha,9971,Fc,Calculated data
+QC,Crops,117,South Korea,5419,Yield,667,Tea,2018,2018,kg/ha,10984,Fc,Calculated data
+QC,Crops,117,South Korea,5419,Yield,826,Tobacco,2018,2018,kg/ha,24401,Fc,Calculated data
+QC,Crops,146,Republic of Moldova,5419,Yield,826,Tobacco,2018,2018,kg/ha,18907,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,667,Tea,2018,2018,kg/ha,14732,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,826,Tobacco,2018,2018,kg/ha,9060,Fc,Calculated data
+QC,Crops,183,Romania,5419,Yield,826,Tobacco,2018,2018,kg/ha,13745,Fc,Calculated data
+QC,Crops,185,Russia,5419,Yield,667,Tea,2018,2018,kg/ha,8485,Fc,Calculated data
+QC,Crops,185,Russia,5419,Yield,826,Tobacco,2018,2018,kg/ha,12000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,656,Coffee,2018,2018,kg/ha,4256,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,667,Tea,2018,2018,kg/ha,15180,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,826,Tobacco,2018,2018,kg/ha,11379,Fc,Calculated data
+QC,Crops,188,Saint Kitts and Nevis,5419,Yield,328,Cotton,2018,2018,kg/ha,3041,Fc,Calculated data
+QC,Crops,189,Saint Lucia,5419,Yield,661,Cocoa,2018,2018,kg/ha,16530,Fc,Calculated data
+QC,Crops,191,Saint Vincent and the Grenadines,5419,Yield,661,Cocoa,2018,2018,kg/ha,2780,Fc,Calculated data
+QC,Crops,191,Saint Vincent and the Grenadines,5419,Yield,656,Coffee,2018,2018,kg/ha,2999,Fc,Calculated data
+QC,Crops,191,Saint Vincent and the Grenadines,5419,Yield,826,Tobacco,2018,2018,kg/ha,15685,Fc,Calculated data
+QC,Crops,244,Samoa,5419,Yield,661,Cocoa,2018,2018,kg/ha,1829,Fc,Calculated data
+QC,Crops,244,Samoa,5419,Yield,656,Coffee,2018,2018,kg/ha,3073,Fc,Calculated data
+QC,Crops,244,Samoa,5419,Yield,826,Tobacco,2018,2018,kg/ha,50934,Fc,Calculated data
+QC,Crops,193,Sao Tome and Principe,5419,Yield,661,Cocoa,2018,2018,kg/ha,1014,Fc,Calculated data
+QC,Crops,193,Sao Tome and Principe,5419,Yield,656,Coffee,2018,2018,kg/ha,415,Fc,Calculated data
+QC,Crops,195,Senegal,5419,Yield,328,Cotton,2018,2018,kg/ha,11153,Fc,Calculated data
+QC,Crops,272,Serbia,5419,Yield,826,Tobacco,2018,2018,kg/ha,12442,Fc,Calculated data
+QC,Crops,196,Seychelles,5419,Yield,667,Tea,2018,2018,kg/ha,4649,Fc,Calculated data
+QC,Crops,197,Sierra Leone,5419,Yield,661,Cocoa,2018,2018,kg/ha,4207,Fc,Calculated data
+QC,Crops,197,Sierra Leone,5419,Yield,656,Coffee,2018,2018,kg/ha,21260,Fc,Calculated data
+QC,Crops,197,Sierra Leone,5419,Yield,826,Tobacco,2018,2018,kg/ha,5010,Fc,Calculated data
+QC,Crops,200,Singapore,5419,Yield,826,Tobacco,2018,2018,kg/ha,18523,Fc,Calculated data
+QC,Crops,199,Slovakia,5419,Yield,826,Tobacco,2018,2018,kg/ha,4286,Fc,Calculated data
+QC,Crops,25,Solomon Islands,5419,Yield,661,Cocoa,2018,2018,kg/ha,3884,Fc,Calculated data
+QC,Crops,25,Solomon Islands,5419,Yield,826,Tobacco,2018,2018,kg/ha,8801,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,328,Cotton,2018,2018,kg/ha,4027,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,826,Tobacco,2018,2018,kg/ha,4146,Fc,Calculated data
+QC,Crops,202,South Africa,5419,Yield,328,Cotton,2018,2018,kg/ha,27498,Fc,Calculated data
+QC,Crops,202,South Africa,5419,Yield,667,Tea,2018,2018,kg/ha,20393,Fc,Calculated data
+QC,Crops,202,South Africa,5419,Yield,826,Tobacco,2018,2018,kg/ha,31200,Fc,Calculated data
+QC,Crops,203,Spain,5419,Yield,328,Cotton,2018,2018,kg/ha,23955,Fc,Calculated data
+QC,Crops,203,Spain,5419,Yield,826,Tobacco,2018,2018,kg/ha,30536,Fc,Calculated data
+QC,Crops,38,Sri Lanka,5419,Yield,661,Cocoa,2018,2018,kg/ha,9506,Fc,Calculated data
+QC,Crops,38,Sri Lanka,5419,Yield,656,Coffee,2018,2018,kg/ha,9201,Fc,Calculated data
+QC,Crops,38,Sri Lanka,5419,Yield,328,Cotton,2018,2018,kg/ha,20276,Fc,Calculated data
+QC,Crops,38,Sri Lanka,5419,Yield,667,Tea,2018,2018,kg/ha,15001,Fc,Calculated data
+QC,Crops,38,Sri Lanka,5419,Yield,826,Tobacco,2018,2018,kg/ha,44118,Fc,Calculated data
+QC,Crops,276,Sudan,5419,Yield,328,Cotton,2018,2018,kg/ha,19512,Fc,Calculated data
+QC,Crops,207,Suriname,5419,Yield,661,Cocoa,2018,2018,kg/ha,302,Fc,Calculated data
+QC,Crops,207,Suriname,5419,Yield,656,Coffee,2018,2018,kg/ha,232,Fc,Calculated data
+QC,Crops,211,Switzerland,5419,Yield,826,Tobacco,2018,2018,kg/ha,20801,Fc,Calculated data
+QC,Crops,212,Syria,5419,Yield,328,Cotton,2018,2018,kg/ha,6268,Fc,Calculated data
+QC,Crops,212,Syria,5419,Yield,826,Tobacco,2018,2018,kg/ha,13627,Fc,Calculated data
+QC,Crops,208,Tajikistan,5419,Yield,328,Cotton,2018,2018,kg/ha,16163,Fc,Calculated data
+QC,Crops,208,Tajikistan,5419,Yield,826,Tobacco,2018,2018,kg/ha,14354,Fc,Calculated data
+QC,Crops,216,Thailand,5419,Yield,661,Cocoa,2018,2018,kg/ha,29367,Fc,Calculated data
+QC,Crops,216,Thailand,5419,Yield,656,Coffee,2018,2018,kg/ha,7556,Fc,Calculated data
+QC,Crops,216,Thailand,5419,Yield,328,Cotton,2018,2018,kg/ha,14969,Fc,Calculated data
+QC,Crops,216,Thailand,5419,Yield,667,Tea,2018,2018,kg/ha,46749,Fc,Calculated data
+QC,Crops,216,Thailand,5419,Yield,826,Tobacco,2018,2018,kg/ha,34328,Fc,Calculated data
+QC,Crops,176,Timor,5419,Yield,661,Cocoa,2018,2018,kg/ha,977,Fc,Calculated data
+QC,Crops,176,Timor,5419,Yield,656,Coffee,2018,2018,kg/ha,1891,Fc,Calculated data
+QC,Crops,217,Togo,5419,Yield,661,Cocoa,2018,2018,kg/ha,9547,Fc,Calculated data
+QC,Crops,217,Togo,5419,Yield,656,Coffee,2018,2018,kg/ha,3173,Fc,Calculated data
+QC,Crops,217,Togo,5419,Yield,328,Cotton,2018,2018,kg/ha,7071,Fc,Calculated data
+QC,Crops,217,Togo,5419,Yield,826,Tobacco,2018,2018,kg/ha,4389,Fc,Calculated data
+QC,Crops,219,Tonga,5419,Yield,656,Coffee,2018,2018,kg/ha,14498,Fc,Calculated data
+QC,Crops,220,Trinidad and Tobago,5419,Yield,661,Cocoa,2018,2018,kg/ha,835,Fc,Calculated data
+QC,Crops,220,Trinidad and Tobago,5419,Yield,656,Coffee,2018,2018,kg/ha,1451,Fc,Calculated data
+QC,Crops,220,Trinidad and Tobago,5419,Yield,826,Tobacco,2018,2018,kg/ha,19352,Fc,Calculated data
+QC,Crops,222,Tunisia,5419,Yield,328,Cotton,2018,2018,kg/ha,5981,Fc,Calculated data
+QC,Crops,222,Tunisia,5419,Yield,826,Tobacco,2018,2018,kg/ha,14056,Fc,Calculated data
+QC,Crops,223,Turkey,5419,Yield,328,Cotton,2018,2018,kg/ha,49553,Fc,Calculated data
+QC,Crops,223,Turkey,5419,Yield,667,Tea,2018,2018,kg/ha,32292,Fc,Calculated data
+QC,Crops,223,Turkey,5419,Yield,826,Tobacco,2018,2018,kg/ha,8630,Fc,Calculated data
+QC,Crops,213,Turkmenistan,5419,Yield,328,Cotton,2018,2018,kg/ha,11555,Fc,Calculated data
+QC,Crops,213,Turkmenistan,5419,Yield,826,Tobacco,2018,2018,kg/ha,21785,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,661,Cocoa,2018,2018,kg/ha,4312,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,656,Coffee,2018,2018,kg/ha,5353,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,328,Cotton,2018,2018,kg/ha,13700,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,667,Tea,2018,2018,kg/ha,22003,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,826,Tobacco,2018,2018,kg/ha,13988,Fc,Calculated data
+QC,Crops,230,Ukraine,5419,Yield,826,Tobacco,2018,2018,kg/ha,25800,Fc,Calculated data
+QC,Crops,225,United Arab Emirates,5419,Yield,826,Tobacco,2018,2018,kg/ha,138242,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,661,Cocoa,2018,2018,kg/ha,7084,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,656,Coffee,2018,2018,kg/ha,3020,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,328,Cotton,2018,2018,kg/ha,6783,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,667,Tea,2018,2018,kg/ha,20852,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,826,Tobacco,2018,2018,kg/ha,6575,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,656,Coffee,2018,2018,kg/ha,7646,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,328,Cotton,2018,2018,kg/ha,26821,Fc,Calculated data
+QC,Crops,231,United States of America,5419,Yield,826,Tobacco,2018,2018,kg/ha,20508,Fc,Calculated data
+QC,Crops,234,Uruguay,5419,Yield,826,Tobacco,2018,2018,kg/ha,39580,Fc,Calculated data
+QC,Crops,235,Uzbekistan,5419,Yield,328,Cotton,2018,2018,kg/ha,20691,Fc,Calculated data
+QC,Crops,235,Uzbekistan,5419,Yield,826,Tobacco,2018,2018,kg/ha,22894,Fc,Calculated data
+QC,Crops,155,Vanuatu,5419,Yield,661,Cocoa,2018,2018,kg/ha,5160,Fc,Calculated data
+QC,Crops,155,Vanuatu,5419,Yield,656,Coffee,2018,2018,kg/ha,6123,Fc,Calculated data
+QC,Crops,236,Venezuela,5419,Yield,661,Cocoa,2018,2018,kg/ha,3921,Fc,Calculated data
+QC,Crops,236,Venezuela,5419,Yield,656,Coffee,2018,2018,kg/ha,3550,Fc,Calculated data
+QC,Crops,236,Venezuela,5419,Yield,328,Cotton,2018,2018,kg/ha,10725,Fc,Calculated data
+QC,Crops,236,Venezuela,5419,Yield,826,Tobacco,2018,2018,kg/ha,18923,Fc,Calculated data
+QC,Crops,237,Vietnam,5419,Yield,656,Coffee,2018,2018,kg/ha,26117,Fc,Calculated data
+QC,Crops,237,Vietnam,5419,Yield,328,Cotton,2018,2018,kg/ha,5450,Fc,Calculated data
+QC,Crops,237,Vietnam,5419,Yield,667,Tea,2018,2018,kg/ha,23149,Fc,Calculated data
+QC,Crops,237,Vietnam,5419,Yield,826,Tobacco,2018,2018,kg/ha,23353,Fc,Calculated data
+QC,Crops,249,Yemen,5419,Yield,656,Coffee,2018,2018,kg/ha,5692,Fc,Calculated data
+QC,Crops,249,Yemen,5419,Yield,328,Cotton,2018,2018,kg/ha,10870,Fc,Calculated data
+QC,Crops,249,Yemen,5419,Yield,826,Tobacco,2018,2018,kg/ha,21289,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,656,Coffee,2018,2018,kg/ha,9019,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,328,Cotton,2018,2018,kg/ha,8254,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,667,Tea,2018,2018,kg/ha,14340,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,826,Tobacco,2018,2018,kg/ha,17659,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,656,Coffee,2018,2018,kg/ha,2419,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,328,Cotton,2018,2018,kg/ha,5625,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,667,Tea,2018,2018,kg/ha,34722,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,826,Tobacco,2018,2018,kg/ha,13114,Fc,Calculated data

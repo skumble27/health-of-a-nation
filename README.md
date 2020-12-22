@@ -16,7 +16,7 @@ The project will involve utilising various technologies in order to launch a web
 
 Utilising HTML and CSS languages, a website will then be developed in which to provide all the required data visuals that are related to Healthcare, Agriculture and the Environment. Users will have the option of selecting different industries of interest in which to view the statistics relating to each country. 
 
-**Interactive Data Dashboard**
+***Interactive Data Dashboard***
 
 With the use of the JavaScript Language, an interactive web dashboard will then be developed wherein users will have the option of selecting a country of interest and then viewing the information pertaining to those regions. In this manner, users will have the opportunity to get a quick glimpse of the issues relating to various countries apart from the main focus on Covid-19. 
 
