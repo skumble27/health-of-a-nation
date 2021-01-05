@@ -1,4 +1,0 @@
-e_inc_num
-e_mort_exc_tbhiv_num
-e_pop_num
-https://www.who.int/teams/global-tuberculosis-programme/data
