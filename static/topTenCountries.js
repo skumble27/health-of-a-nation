@@ -33,7 +33,17 @@ function topTenCountries(id){
       let countriesGDP = []
       let countriesLife = []
       let countriesPOP = []
-  
+
+      // This function will be used to remove countries that are already within the array to prevent duplicates in the bar chart
+      function duplicateRemoval(clones){
+        let unique = [];
+        clones.forEach(element => {
+          if (!unique.includes(element)){
+            unique.push(element)
+          }
+        });
+        return unique;
+      }
   
       // Iterating through the objects to obtain list of countries for GDP
       Object.keys(topTenGDP).forEach(function(key){
@@ -96,8 +106,8 @@ function topTenCountries(id){
 
       var tracePOP = 
         {
-          x:countriesPOP,
-          y:population,
+          x:duplicateRemoval(countriesPOP), // If a country like India or China is clicked, the values will double so the function removes the duplicates
+          y:duplicateRemoval(population),
           type: 'bar',
           name: 'Population',
           marker:{
@@ -108,8 +118,8 @@ function topTenCountries(id){
         
       var traceGDP = 
         {
-          x:countriesGDP,
-          y:gdp,
+          x:duplicateRemoval(countriesGDP),
+          y:duplicateRemoval(gdp),
           xaxis:'x2',
           yaxis:'y2',
           type: 'bar',
@@ -121,8 +131,8 @@ function topTenCountries(id){
       
      var traceLife = 
         {
-          x:countriesLife,
-          y:lifeexpectency,
+          x:duplicateRemoval(countriesLife),
+          y:duplicateRemoval(lifeexpectency),
           xaxis:'x3',
           yaxis:'y3',
           type:'bar',
