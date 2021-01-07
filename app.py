@@ -22,7 +22,7 @@ from flask import Flask, render_template
 #################################################
 
 # Creating a search engine
-engine = create_engine(f'postgresql+psycopg2://postgres:{postgresqlkey}@localhost:5432/worldwidedata')
+engine = create_engine(f'postgres://kbvkaeffrsivgj:5da5e547d9d4d0dfca061a7158a1190c92eea1a6036ec5149113cbbd33e83cfd@ec2-54-211-169-227.compute-1.amazonaws.com:5432/dco3dalmdbuiu0')
 
 # reflect an existing database into a new model
 Base = automap_base()
