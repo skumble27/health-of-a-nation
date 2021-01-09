@@ -131,3 +131,7 @@ dmypy.json
 
 /DraftsSK/*
 entrancekey.py
+*.max
+*.fbx
+*.spp
+*.obj
