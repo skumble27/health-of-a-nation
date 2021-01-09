@@ -134,7 +134,7 @@ function unPackData(id){
         var hivDeathsTrace = {
             type:'scatter',
             mode:'lines',
-            name:'Co2 Emissions',
+            name:'HIV Deaths',
             x:year,
             y:hivDeaths,
             line:{color:'#ff91d3'},
@@ -275,7 +275,7 @@ function unPackData(id){
         var cashCropTrace = {
             type:'scatter',
             mode:'lines',
-            name:'Child Mortality Rates',
+            name:'Cash Crop Yield',
             x:year,
             y:cashCrop,
             line:{color:'#ff91d3'},
