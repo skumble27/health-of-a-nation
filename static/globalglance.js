@@ -284,7 +284,7 @@ d3.json("/worlddata").then(function(worldData){
     .attr("x", 150)
     .attr("y", 40)
     .attr("value", "agri_employment") // <-- This will obtain the value relating to age
-    .text("Employment in Agriculture")
+    .text("Employment in Agriculture (%)")
     .classed("inactive", true);
 
   var childMortalityLabel = groupedXLabels.append("text")
@@ -298,7 +298,7 @@ d3.json("/worlddata").then(function(worldData){
     .attr("x", 150)
     .attr("y", 60)
     .attr("value", "obesity_rates") // <-- This will obtain the value relating to state gdp 
-    .text("Obesity Rates")
+    .text("Obesity Rates (%)")
     .classed("inactive", true);
 
     var hivDeathsLabel = groupedXLabels.append("text")
