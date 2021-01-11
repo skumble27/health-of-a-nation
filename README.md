@@ -14,23 +14,25 @@ Given that the world is currently focussed on the events pertaining to COVID-19,
 
 The datasets were obtained from a number of different sources that was accessible in a CSV format. For all health related datasets pertaining to the human immune deficiency virus (HIV), obesity and mental health were all obtained from "Our World in Data". 
 
-![Screenshot1]()
+![Screenshot1](https://raw.githubusercontent.com/skumble27/project-2/main/images/Screenshot5.gif)
 
 Datasets relating to agricultural output were obtained from the Food and Agriculture Organisation of the United Nations. 
 
-![Screenshot2]()
+![Screenshot2](https://raw.githubusercontent.com/skumble27/project-2/main/images/Screenshot6.gif)
 
 In order to build the interactive maps on the webdashboard, a customised global polygon Geojson dataset was built and deployed onto the website (source:https://geojson-maps.ash.ms/)
 
+![Screenshot3](https://raw.githubusercontent.com/skumble27/project-2/main/images/Screenshot9.gif)
 
-
-
-
-
+The Datasets were subsequently transformed, cleaned and edited and loaded into the Heroku PostgreSQL cloud database, which in turn, can be accessed with the JavaScript applications which will be discussed later in this document. 
 
 ***Website development***
 
-Utilising HTML and CSS languages, a website will then be developed in which to provide all the required data visuals that are related to Healthcare, Agriculture and the Environment. Users will have the option of selecting different industries of interest in which to view the statistics relating to each country. 
+The HTML and CSS scripts were utilised in order to build and format the website for subsequent user interactivity. The animated heading of the website, as seen in the image below, was constructed using the **anime js** library for visual appeal. 
+
+![Screenshot4](https://raw.githubusercontent.com/skumble27/project-2/main/images/Screenshot4.gif)
+
+
 
 ***Interactive Data Dashboard***
 
