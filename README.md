@@ -1,16 +1,32 @@
-# project-2 - Data Visualisation
+# project-2 - Health of a Nation
+
+![Image1](https://raw.githubusercontent.com/skumble27/project-2/main/images/nationshealth.jpg)
 
 **Sumukh Kumble, Jia Na (Gina) and Sean Pei**
 
 ### Project Proposal
 
-Given that the world is currently focussed on the events pertaining to COVID-19, there are many issues that are effecting many countries in different areas such as Agriculture, Environment and Healthcare (non-COVID-19 related). Whilst there are a number of interactive Dashboards available relating to Covid-19 rates in different countries and their regions, the purpose of this Dashboard is to provide users with information relating to other issues health, agricultural and environmental issues so that individuals can obtain the latest information related to various countries.  
+Given that the world is currently focussed on the events pertaining to COVID-19, there are many issues that are effecting many countries in different areas such as Agriculture, Environment and Healthcare (non-COVID-19 related). Whilst there are a number of interactive Dashboards available relating to Covid-19 rates in different countries and their regions, the purpose of this Dashboard is to provide users with information relating to other matters relating to non-Covid-19 related issues such as health, agricultural and the environment so that individuals can obtain the latest information related to various countries.  
 
-**Project Objectives**
+**Dashboard Design**
 
 ***Data Extraction***
 
-The project will involve utilising various technologies in order to launch a web based application to visualise the data. The first step involves **Extraction-Transformation-Loading** **(ETL)** where CSV based datasets will be sourced from different organisations, transformed using Pandas Modules in Python and subsequently loaded onto a PostgresSQL server.
+The datasets were obtained from a number of different sources that was accessible in a CSV format. For all health related datasets pertaining to the human immune deficiency virus (HIV), obesity and mental health were all obtained from "Our World in Data". 
+
+![Screenshot1]()
+
+Datasets relating to agricultural output were obtained from the Food and Agriculture Organisation of the United Nations. 
+
+![Screenshot2]()
+
+In order to build the interactive maps on the webdashboard, a customised global polygon Geojson dataset was built and deployed onto the website (source:https://geojson-maps.ash.ms/)
+
+
+
+
+
+
 
 ***Website development***
 
