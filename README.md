@@ -71,3 +71,10 @@ The final Dashboard consists of the following components that have been built us
 Datasets for each country have been developed that provides the country's performance over 57 years start from 1961. By utilising the Plotly JavaScript Library, users can utilise the Time slider to zoom into a particular time range to obtain different perspective on the trends that occur between a specific time period. A sample of the process has been provided below.
 
 ![timeseries](https://raw.githubusercontent.com/skumble27/project-2/main/images/timeseriesplotly.gif)
+
+An additional chart has been developed in which the selected country can be compared to the top ten nations in terms of Population, Gross Domestic Product as well as Life Expectancy.
+
+![Nations Ranking](https://raw.githubusercontent.com/skumble27/project-2/main/images/nationranking.png) 
+
+The health of a nation can be accessed [here](https://project2worlddatadashboard.herokuapp.com/).
+
