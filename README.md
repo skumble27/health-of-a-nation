@@ -44,9 +44,16 @@ With the use of the JavaScript Language, an interactive web dashboard was develo
 
 The web-based application was developed, compiled and launched through the Heroku Development Portal. In a streamlined process, the previously cleaned datasets relating to each country were loaded onto the Heroku PostgreSQL cloud database.
 
-Through the Python Flask application, the Heroku PostgreSQL database was accessed, rendered into a Json object and dumped onto the web server for subsequent access through the files. 
+Through the Python Flask application, the Heroku PostgreSQL database was accessed, rendered into a Json object and dumped onto the web server. 
 
+![flask](https://raw.githubusercontent.com/skumble27/project-2/main/images/flaskapp.png)
 
+<div align="center">Flask Application</div>
 
-The website will be launched using the main Python Flask module wherein the PostreSQL database will be accessed through SQL Alchemy, converted into a json format that will then be loaded onto the website as an API. Once this has occurred, the users will be able to select the country of their choice, which in turn, will result in accessing the local SQL database to present the data onto the web dashboard. 
+Once rendered through Flask, the Jsonified dataset is available on the server.
 
+![Json Object](https://raw.githubusercontent.com/skumble27/project-2/main/images/jsonobject.png)
+
+<div align="center">Json Object available on the server</div>
+
+**Final Web Application Dashboard**
