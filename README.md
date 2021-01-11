@@ -2,6 +2,10 @@
 
 ![Image1](https://raw.githubusercontent.com/skumble27/project-2/main/images/nationshealth.jpg)
 
+<div align="center">Image © Sumukh Kumble 2020</div>
+
+
+
 **Sumukh Kumble, Jia Na (Gina) and Sean Pei**
 
 ### Project Proposal
@@ -66,3 +70,4 @@ The final Dashboard consists of the following components that have been built us
 
 Datasets for each country have been developed that provides the country's performance over 57 years start from 1961. By utilising the Plotly JavaScript Library, users can utilise the Time slider to zoom into a particular time range to obtain different perspective on the trends that occur between a specific time period. A sample of the process has been provided below.
 
+![timeseries](https://raw.githubusercontent.com/skumble27/project-2/main/images/timeseriesplotly.gif)
