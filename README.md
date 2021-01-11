@@ -57,3 +57,12 @@ Once rendered through Flask, the Jsonified dataset is available on the server.
 <div align="center">Json Object available on the server</div>
 
 **Final Web Application Dashboard**
+
+The final Dashboard consists of the following components that have been built using several JavaScript Libraries. The first interactive dashboard was built using the D3 JavaScript library where a snapshot of the world, based on the latest data relating to Health, Agriculture and the Environment, are available. Users have the option of selecting a specific axis to view the relationships between different parameters, for instance GDP vs Life Expectancy. A sample demonstration has been provided below:
+
+![D3 Chart](https://raw.githubusercontent.com/skumble27/project-2/main/images/d3chart.gif)
+
+***Time Series Chart*** 
+
+Datasets for each country have been developed that provides the country's performance over 57 years start from 1961. By utilising the Plotly JavaScript Library, users can utilise the Time slider to zoom into a particular time range to obtain different perspective on the trends that occur between a specific time period. A sample of the process has been provided below.
+
