@@ -1,5 +1,7 @@
 # project-2 - Health of a Nation
 
+[Click here to Launch the App](https://project2worlddatadashboard.herokuapp.com/)
+
 ![Image1](https://raw.githubusercontent.com/skumble27/project-2/main/images/nationshealth.jpg)
 
 <div align="center">Image © Sumukh Kumble 2020</div>
