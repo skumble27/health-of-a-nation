@@ -277,7 +277,7 @@ d3.json("/worlddata").then(function(worldData){
     .attr("x", -150)
     .attr("y", 40)
     .attr("value", "staple_crop_kg_ha") // <-- This will obtain the value relating to poverty rates
-    .text("Staple Crops")
+    .text("Staple Crops (kg/ha)")
     .classed("active", true);
 
   var agriEmpLabel = groupedXLabels.append("text")
@@ -323,7 +323,7 @@ d3.json("/worlddata").then(function(worldData){
     .attr("x", -(height * 0.75))// The negative sign and dividing by two ensures that the labels are halfway from the top
     .attr("y", -70)
     .attr("value", "cash_crop_kg_ha") // <-- Obtain values relating to healthcare access
-    .text("Cash Crop Yield")
+    .text("Cash Crop (kg/ha)")
     .classed("active", true);
 
   var gdpLabel = groupedYLabels.append("text")
